@@ -56,3 +56,8 @@
    - Gaussian Filtering
    - Median Filtering
    - Bilateral Filtering
+## 6. Morphological Transformations
+1. Erosion
+2. Dilation
+3. Opening & Closing
+4. Structuring Element
