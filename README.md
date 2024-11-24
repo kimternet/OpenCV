@@ -22,7 +22,7 @@
    - ellipse(타원)그리기
    - Polygon 그리기
 7. Text 추가하기
-##2. OpenCV 이미지처리(Image Processing)
+## 2. OpenCV 이미지처리(Image Processing)
 1. Resize
 2. Translation
 3. Rotate
