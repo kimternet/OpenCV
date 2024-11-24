@@ -49,3 +49,10 @@
    - 기본 임계 처리
    - 적응 임계 처리
    - Otsu의 이진화
+## 5. OpenCV Image Smoothing(Image Blurring)
+1. Image Smoothing(Image Blurring)
+2. Image Blurring
+   - Averaging
+   - Gaussian Filtering
+   - Median Filtering
+   - Bilateral Filtering
