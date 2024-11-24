@@ -61,3 +61,7 @@
 2. Dilation
 3. Opening & Closing
 4. Structuring Element
+## 7. Image Gradients
+1. Sobel & Scharr Filter
+2. Laplacian 함수
+3. Canny Edge Detection
