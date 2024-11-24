@@ -44,3 +44,8 @@
      - bitwise_xor 연산
      - 비트 연산 예시 이미지에 로고 넣기
 2. Image Blending
+## 4. OpenCV 이미지 이진화(Image Thresholding)
+1. 이미지 이진화(Image Thresholding)
+   - 기본 임계 처리
+   - 적응 임계 처리
+   - Otsu의 이진화
