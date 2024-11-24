@@ -29,3 +29,18 @@
 4. Flip
 5. Affine Transformation
 6. Perspective Transformation
+## 3. OpenCV 이미지 연산(Image Operation)
+1. 이미지 연산(Image Operation)
+   - Pixel Value
+   - 값 변경
+   - 인덱싱
+   - 이미지 ROI
+   - 이미지의 Channels
+   - 이미지 더하기
+   - 비트 연산
+     - bitwise_and 연산
+     - bitwise_or 연산
+     - bitwise_not 연산
+     - bitwise_xor 연산
+     - 비트 연산 예시 이미지에 로고 넣기
+2. Image Blending
