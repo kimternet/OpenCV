@@ -65,3 +65,8 @@
 1. Sobel & Scharr Filter
 2. Laplacian 함수
 3. Canny Edge Detection
+## 8. OpenCV 히스토그램(Histogram)
+1. Histogram
+2. Mask를 적용한 히스토그램
+3. 히스토그램 평탄화
+4. CLAHE(Contrast Limited Adaptive Histogram Equalization)
